@@ -5,6 +5,8 @@
   "author": "pradipta",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "alfred-script-hubot": "^1.0.2",
+    "dotenv": "^8.2.0",
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
     "hubot-google-images": "^0.2.7",
