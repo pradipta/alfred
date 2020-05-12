@@ -1,4 +1,4 @@
-run `npm install dotenv`
+run `npm i`
 
 Add these into .env: 
 
