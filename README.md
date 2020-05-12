@@ -1,13 +1,13 @@
 run `npm i`
 
-Add these into .env: 
+Add these (replace actual values) into .env: 
 
 ```
-ALFREDDBNAME=<dbname>
-ALFREDDBUSERNAME=<username>
-ALFREDDBPASSWORD=<password>
-ALFREDDBHOST=<host>
-ALFREDDBPORT=<port>
+ALFREDDBNAME=dbname
+ALFREDDBUSERNAME=username
+ALFREDDBPASSWORD=password
+ALFREDDBHOST=host
+ALFREDDBPORT=port
 ```
 
 Database table structure: 
