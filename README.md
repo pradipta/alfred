@@ -17,6 +17,7 @@ Database table structure:
 
 Database name should be same as provided on the `.env` for the script at https://github.com/pradiptasarma/alfred
 
-Run ./bin/hubot
+Run on local: `./bin/hubot`
+Run on Slack: HUBOT_SLACK_TOKEN=<SLACK TOKEN HERE> ./bin/hubot --adapter slack
 
 Enjoy bro
